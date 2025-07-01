@@ -1,0 +1,3944 @@
+{
+  "analytics": {
+    "enabled": true,
+    "userPrompted": true,
+    "versionNumber": "2018.4"
+  },
+  "applications": {
+    "applications": [
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "categoryColors": [
+          {
+            "hex": "#ff43ee",
+            "tag": "Editing"
+          },
+          {
+            "hex": "#eeff43",
+            "tag": "Productivity"
+          },
+          {
+            "hex": "#43eeff",
+            "tag": "Windows"
+          },
+          {
+            "hex": "#ff4390",
+            "tag": "Navigation"
+          }
+        ],
+        "commands": [
+          {
+            "cardId": "88d5382a-d664-4153-93a6-7b47326a6644",
+            "category": "Editing",
+            "name": "Cut"
+          },
+          {
+            "cardId": "55fb9e59-f0ba-4745-917a-b225f4833272",
+            "category": "Editing",
+            "name": "Copy"
+          },
+          {
+            "cardId": "6360db71-b9db-4b54-b689-62955960bafb",
+            "category": "Editing",
+            "name": "Paste"
+          },
+          {
+            "cardId": "c851e802-7d45-4721-934f-1987529588ed",
+            "category": "Editing",
+            "name": "Undo"
+          },
+          {
+            "cardId": "fde6b256-960d-42a7-bc16-ec161757da7e",
+            "category": "Editing",
+            "name": "Redo"
+          },
+          {
+            "cardId": "8aaa73fe-6f00-4a23-ad9f-b30acdcc3785",
+            "category": "Editing",
+            "name": "Select All"
+          },
+          {
+            "cardId": "e0db7dcc-3b42-411f-b43d-e47912425660",
+            "category": "Productivity",
+            "name": "Switch Between Apps"
+          },
+          {
+            "cardId": "7279ad64-7b0b-4527-8791-a193c8c862fd",
+            "category": "Productivity",
+            "name": "Exit Active App"
+          },
+          {
+            "cardId": "9e242d09-eece-420b-b008-1ce34965e3fc",
+            "category": "Productivity",
+            "name": "Cycle Through Apps"
+          },
+          {
+            "cardId": "db19a51d-ca42-43c0-bd99-34e7e9b32026",
+            "category": "Productivity",
+            "name": "Open Task Manager"
+          },
+          {
+            "cardId": "6e93d030-ec06-4851-82b0-c60dd8fd80c0",
+            "category": "Productivity",
+            "name": "Open Start"
+          },
+          {
+            "cardId": "e0f194a9-20f2-4d5c-b252-3b66a10be1c3",
+            "category": "Windows",
+            "name": "Lock PC"
+          },
+          {
+            "cardId": "6f17eb61-d6b5-4a3a-9941-cd2c342f539f",
+            "category": "Windows",
+            "name": "Hide/Show Desktop"
+          },
+          {
+            "cardId": "5b69a9aa-73cf-4632-995d-78ecbacfc021",
+            "category": "Windows",
+            "name": "Open Action Center"
+          },
+          {
+            "cardId": "438dde17-6ab9-49c1-a10a-72435d616160",
+            "category": "Windows",
+            "name": "Set Focus in Notification Area"
+          },
+          {
+            "cardId": "286be9ba-58f1-4e46-b929-b4167e5fff7d",
+            "category": "Windows",
+            "name": "Open File Explorer"
+          },
+          {
+            "cardId": "1a0028b1-d873-42bf-afaf-77e08c6c6123",
+            "category": "Windows",
+            "name": "Open Windows Game Bar"
+          },
+          {
+            "cardId": "bad29e35-cf79-4d7b-9a5b-5b0bd28325f5",
+            "category": "Windows",
+            "name": "Open Windows Setting"
+          },
+          {
+            "cardId": "ecf86ed1-bd7e-4318-ac5e-8f0199caf296",
+            "category": "Windows",
+            "name": "Open Connect Quick Action"
+          },
+          {
+            "cardId": "16071451-b4ad-49c6-9397-5d11a50ad4af",
+            "category": "Windows",
+            "name": "Minimize All Windows"
+          },
+          {
+            "cardId": "90de47d9-ac5e-4d19-bc53-6bba4528fae0",
+            "category": "Windows",
+            "name": "Run dialog"
+          },
+          {
+            "cardId": "b097dbae-68e7-4466-b28d-95fbb33323ee",
+            "category": "Windows",
+            "name": "Open Search"
+          },
+          {
+            "cardId": "69c98a2f-c3bd-4968-bb14-f235160b50c5",
+            "category": "Windows",
+            "name": "Cycle Task Bar Apps"
+          },
+          {
+            "cardId": "7e333e13-cd0f-4604-8d09-99ef1743a1a9",
+            "category": "Windows",
+            "name": "Open Ease of Access Center"
+          },
+          {
+            "cardId": "c2d3e2e1-93c0-474e-9abb-728b97c14b4b",
+            "category": "Windows",
+            "name": "Open Quick Links"
+          },
+          {
+            "cardId": "cc49b1b1-4265-460d-9f4f-299fee3a1389",
+            "category": "Windows",
+            "name": "Open Emoji Panel"
+          },
+          {
+            "cardId": "e89b1390-0eee-4593-af2e-38f7df0b3a88",
+            "category": "Windows",
+            "name": "Open Task View"
+          },
+          {
+            "cardId": "8b7f675f-cd9f-4e78-8883-dbc0c44e5403",
+            "category": "Windows",
+            "name": "Open Narrator"
+          },
+          {
+            "cardId": "0ca16d0b-a3eb-49b4-8eea-5a063a1c21ac",
+            "category": "Windows",
+            "name": "Open Magnifier"
+          },
+          {
+            "cardId": "5b9e7dc2-7d39-461b-bc4a-0c719361a174",
+            "category": "Navigation",
+            "name": "Go Back"
+          },
+          {
+            "cardId": "11d10bc3-c576-467c-9b7b-263d00352511",
+            "category": "Navigation",
+            "name": "Go Forward"
+          }
+        ],
+        "databaseId": "420fd454-0c36-499d-bde4-146823b16147",
+        "lastRunTime": "20250701T221050.988532",
+        "name": "APPLICATION_NAME_DESKTOP",
+        "version": 2
+      }
+    ]
+  },
+  "arx_control_authentication": {},
+  "arx_control_service_guid": "{4b7c946f-0de6-4547-85f8-97d3d14ccd29}",
+  "autostart": true,
+  "blue_voice_advanced_controls_enabled": false,
+  "brand": "Logitech",
+  "cards": {
+    "cards": [
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "012ad2e0-82cb-4cd4-bb2e-630f5866827b",
+        "macro": {
+          "action": {
+            "actionId": "discord_voice_mute",
+            "integrationId": "9f1134cfb89202f3"
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_DISCORD_VOICE_MUTE"
+      },
+      {
+        "attribute": "PRO_EQUALIZER",
+        "id": "0487742c-a435-4379-95d6-f0b52fe4e0f8",
+        "name": "PRO_EQUALIZER_DEFAULT",
+        "proEqualizer": {
+          "bands": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "name": "PRO_EQUALIZER_DEFAULT",
+          "type": "PRO"
+        },
+        "readOnly": true
+      },
+      {
+        "attribute": "EQUALIZER",
+        "equalizer": {
+          "advanced": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "deviceType": "HEADSET",
+          "name": "EQUALIZER_FLAT",
+          "simple": [
+            0,
+            0
+          ],
+          "type": "ADVANCED"
+        },
+        "id": "0c94ec70-b811-4301-853f-e044c119cf97",
+        "name": "EQUALIZER_FLAT",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Windows",
+        "id": "0ca16d0b-a3eb-49b4-8eea-5a063a1c21ac",
+        "macro": {
+          "actionName": "Left Windows + =",
+          "keystroke": {
+            "code": 46,
+            "modifiers": [
+              227
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Open Magnifier",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "0db59e75-cf9b-4d10-a4f5-3f96f7148fc2",
+        "macro": {
+          "action": {
+            "actionId": "ow_perform_command",
+            "integrationId": "3776b8da1238dc5",
+            "parameters": {
+              "app_selection": "lnhebboianabbebhnpoodokcdcnmikacoeijpjfe",
+              "command_selection": "ow_take_screenshot"
+            }
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OW_TAKE_SCREENSHOT"
+      },
+      {
+        "attribute": "VIDEO_SETTINGS",
+        "id": "1068c6e4-4ebd-4906-0000-0e1b022eee71",
+        "name": "CARTOON",
+        "readOnly": true,
+        "videoSettings": {
+          "antiFlicker": 60,
+          "brightness": {
+            "mode": "MANUAL",
+            "value": 128
+          },
+          "color": {
+            "mode": "MANUAL"
+          },
+          "contrast": {
+            "mode": "MANUAL",
+            "value": 160
+          },
+          "gain": {
+            "mode": "MANUAL",
+            "value": 128
+          },
+          "gamma": {
+            "mode": "MANUAL"
+          },
+          "hue": {
+            "mode": "MANUAL",
+            "value": 50
+          },
+          "saturation": {
+            "mode": "MANUAL",
+            "value": 255
+          },
+          "sharpness": {
+            "mode": "MANUAL"
+          },
+          "whiteBalance": {
+            "mode": "AUTO",
+            "value": 4290
+          }
+        }
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Navigation",
+        "id": "11d10bc3-c576-467c-9b7b-263d00352511",
+        "macro": {
+          "actionName": "Alt + Right",
+          "keystroke": {
+            "code": 79,
+            "modifiers": [
+              226
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Go Forward",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "12ba1628-d43a-4911-8717-46916fc4553e",
+        "macro": {
+          "action": {
+            "actionId": "obs_recording_toggle",
+            "integrationId": "ae67192054b1d99f"
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OBS_TOGGLE_RECORDING"
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Windows",
+        "id": "16071451-b4ad-49c6-9397-5d11a50ad4af",
+        "macro": {
+          "actionName": "Left Windows + M",
+          "keystroke": {
+            "code": 16,
+            "modifiers": [
+              227
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Minimize All Windows",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Windows",
+        "id": "1a0028b1-d873-42bf-afaf-77e08c6c6123",
+        "macro": {
+          "actionName": "Left Windows + G",
+          "keystroke": {
+            "code": 10,
+            "modifiers": [
+              227
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Open Windows Game Bar",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "EQUALIZER",
+        "equalizer": {
+          "advanced": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "name": "DEFAULT",
+          "simple": [
+            0,
+            0
+          ],
+          "type": "SIMPLE"
+        },
+        "id": "1a2f6c6e-7649-431b-8b92-e694307f4e26",
+        "name": "EQUALIZER_DEFAULT",
+        "readOnly": true
+      },
+      {
+        "attribute": "PRO_EQUALIZER",
+        "id": "1f380829-db70-438e-adb6-54c46b95c4aa",
+        "name": "London Spitfire Profit",
+        "proEqualizer": {
+          "bands": [
+            -2,
+            -1,
+            1,
+            2,
+            3
+          ],
+          "deviceType": "HEADSET",
+          "name": "London Spitfire Profit",
+          "tag": "PRO_PRESET",
+          "type": "PRO"
+        },
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "BLUE_VOICE_PRESET_PRO_G2_SHOX",
+            "tag": "PRO_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 2,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 180,
+              "threshold": -6
+            },
+            "deEsser": {
+              "attack": 3,
+              "enabled": true,
+              "frequency": 6000,
+              "ratio": 4,
+              "release": 250,
+              "threshold": -6
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 75
+            },
+            "expander": {
+              "attack": 2,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 4,
+              "release": 100,
+              "threshold": -24,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.75,
+            "limiter": {
+              "attack": 5,
+              "boost": 3,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 3,
+              "enabled": true,
+              "release": 250,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 4000,
+                "gain": 3.8082182,
+                "width": 1
+              },
+              "low": {
+                "frequency": 200,
+                "gain": 4.4889164,
+                "width": 2
+              },
+              "mid": {
+                "frequency": 900,
+                "gain": 1.0854255,
+                "width": 1
+              }
+            },
+            "volume": 0.7
+          }
+        },
+        "id": "26d16144-c655-4f5a-9f61-8254c0b78ac1",
+        "name": "BLUE_VOICE_PRESET_PRO_G2_SHOX",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Windows",
+        "id": "286be9ba-58f1-4e46-b929-b4167e5fff7d",
+        "macro": {
+          "actionName": "Left Windows + E",
+          "keystroke": {
+            "code": 8,
+            "modifiers": [
+              227
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Open File Explorer",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "05_High Voice - Soft",
+            "tag": "MICROPHONE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 5,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 500,
+              "threshold": -12
+            },
+            "deEsser": {
+              "attack": 5,
+              "enabled": true,
+              "frequency": 7500,
+              "ratio": 4,
+              "release": 250,
+              "threshold": -12
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 90
+            },
+            "expander": {
+              "attack": 10,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 6,
+              "release": 325,
+              "threshold": -24,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.7,
+            "limiter": {
+              "attack": 5,
+              "boost": 6,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 2,
+              "enabled": true,
+              "release": 100,
+              "sensitivity": 9
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 5000,
+                "gain": 1.7782794,
+                "width": 1
+              },
+              "low": {
+                "frequency": 220,
+                "gain": 2.5118864,
+                "width": 1
+              },
+              "mid": {
+                "frequency": 600,
+                "gain": 0.3548134,
+                "width": 1
+              }
+            },
+            "volume": 0.6
+          }
+        },
+        "id": "29665c85-3ea7-49e4-a660-225fdb1568bf",
+        "name": "High Voice - Soft",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "10_Warm and Vintage",
+            "tag": "MICROPHONE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 10,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 250,
+              "threshold": -12
+            },
+            "deEsser": {
+              "attack": 3,
+              "enabled": true,
+              "frequency": 5000,
+              "ratio": 6,
+              "release": 250,
+              "threshold": -12
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 40
+            },
+            "expander": {
+              "attack": 2,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 4,
+              "release": 100,
+              "threshold": -24,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.6,
+            "limiter": {
+              "attack": 5,
+              "boost": 4,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 3,
+              "enabled": true,
+              "release": 250,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 4000,
+                "gain": 1.4125376,
+                "width": 0.5
+              },
+              "low": {
+                "frequency": 140,
+                "gain": 2.2387211,
+                "width": 1
+              },
+              "mid": {
+                "frequency": 800,
+                "gain": 0.44668359,
+                "width": 1
+              }
+            },
+            "volume": 0.61
+          }
+        },
+        "id": "297cfa4c-ceb5-4c27-bbdc-6067ad243f1a",
+        "name": "Warm and Vintage",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "BLUE_VOICE_PRESET_PRO_TSM_MYTH",
+            "tag": "PRO_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 2,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 180,
+              "threshold": -6
+            },
+            "deEsser": {
+              "attack": 3,
+              "enabled": true,
+              "frequency": 6000,
+              "ratio": 4,
+              "release": 250,
+              "threshold": -6
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 75
+            },
+            "expander": {
+              "attack": 2,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 4,
+              "release": 100,
+              "threshold": -35,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.31,
+            "limiter": {
+              "attack": 5,
+              "boost": 3,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 3,
+              "enabled": true,
+              "release": 250,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 4000,
+                "gain": 3.8082182,
+                "width": 1
+              },
+              "low": {
+                "frequency": 200,
+                "gain": 3.9897377,
+                "width": 2
+              },
+              "mid": {
+                "frequency": 900,
+                "gain": 2.5375817,
+                "width": 1
+              }
+            },
+            "volume": 0.34
+          }
+        },
+        "id": "2a7e8d56-7506-4ee3-a218-726c0807bdc3",
+        "name": "BLUE_VOICE_PRESET_PRO_TSM_MYTH",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "01_Broadcaster 2",
+            "tag": "MICROPHONE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 8,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 250,
+              "threshold": -6
+            },
+            "deEsser": {
+              "attack": 5,
+              "enabled": true,
+              "frequency": 7000,
+              "ratio": 4,
+              "release": 250,
+              "threshold": -12
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 75
+            },
+            "expander": {
+              "attack": 5,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 2,
+              "release": 250,
+              "threshold": -24,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.6,
+            "limiter": {
+              "attack": 5,
+              "boost": 2,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 3,
+              "enabled": true,
+              "release": 250,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 6000,
+                "gain": 1.9952623,
+                "width": 1
+              },
+              "low": {
+                "frequency": 180,
+                "gain": 1.9952623,
+                "width": 2
+              },
+              "mid": {
+                "frequency": 720,
+                "gain": 0.3548134,
+                "width": 1
+              }
+            },
+            "volume": 0.6
+          }
+        },
+        "id": "319095c0-1109-42d0-8e50-fec19cdd081d",
+        "name": "Broadcaster 2",
+        "readOnly": true
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "34bb6067-5875-4737-9b8c-c76c0b193231",
+        "macro": {
+          "action": {
+            "actionId": "ow_perform_command",
+            "integrationId": "3776b8da1238dc5",
+            "parameters": {
+              "app_selection": "hffhbjnafafjnehejohpkfhjdenpifhihebpkhni",
+              "command_selection": "ow_replay_show_last"
+            }
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OW_REPLAY_SHOW_LAST"
+      },
+      {
+        "attribute": "EQUALIZER",
+        "equalizer": {
+          "advanced": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "deviceType": "SPEAKER",
+          "name": "EQUALIZER_FLAT",
+          "simple": [
+            0,
+            0
+          ],
+          "type": "ADVANCED"
+        },
+        "id": "34d14cea-9476-4fa9-aca7-bcdb008952fd",
+        "name": "EQUALIZER_FLAT",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "06_Low Voice - Loud",
+            "tag": "MICROPHONE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 10,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 500,
+              "threshold": -18
+            },
+            "deEsser": {
+              "attack": 5,
+              "enabled": true,
+              "frequency": 5500,
+              "ratio": 3,
+              "release": 250,
+              "threshold": -12
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 75
+            },
+            "expander": {
+              "attack": 5,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 6,
+              "release": 250,
+              "threshold": -25,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.6,
+            "limiter": {
+              "attack": 5,
+              "boost": 3.9810717,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 2.5,
+              "enabled": true,
+              "release": 200,
+              "sensitivity": 9
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 3000,
+                "gain": 2.5118864,
+                "width": 1
+              },
+              "low": {
+                "frequency": 180,
+                "gain": 1.9952623,
+                "width": 2
+              },
+              "mid": {
+                "frequency": 400,
+                "gain": 0.3548134,
+                "width": 1
+              }
+            },
+            "volume": 0.6
+          }
+        },
+        "id": "3bc3140c-73e9-4aeb-be98-efe1861b5b70",
+        "name": "Low Voice - Loud",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "04_High Voice - Loud",
+            "tag": "MICROPHONE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 5,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 250,
+              "threshold": -22
+            },
+            "deEsser": {
+              "attack": 5,
+              "enabled": true,
+              "frequency": 7500,
+              "ratio": 4,
+              "release": 250,
+              "threshold": -9
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 90
+            },
+            "expander": {
+              "attack": 10,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 6,
+              "release": 325,
+              "threshold": -34,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.6,
+            "limiter": {
+              "attack": 5,
+              "boost": 3.9810717,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 2,
+              "enabled": true,
+              "release": 75,
+              "sensitivity": 9
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 5000,
+                "gain": 1.9952623,
+                "width": 1
+              },
+              "low": {
+                "frequency": 220,
+                "gain": 2.5118864,
+                "width": 1
+              },
+              "mid": {
+                "frequency": 600,
+                "gain": 0.3548134,
+                "width": 1
+              }
+            },
+            "volume": 0.6
+          }
+        },
+        "id": "3d30f760-5b9f-4513-a803-7c1a47d2b65a",
+        "name": "High Voice - Loud",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "08_AM Radio",
+            "tag": "MICROPHONE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 5,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 20,
+              "release": 250,
+              "threshold": -18
+            },
+            "deEsser": {
+              "attack": 5,
+              "enabled": true,
+              "frequency": 5000,
+              "ratio": 2,
+              "release": 250,
+              "threshold": -18
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 90
+            },
+            "expander": {
+              "attack": 5,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 4,
+              "release": 250,
+              "threshold": -24,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.6,
+            "limiter": {
+              "attack": 5,
+              "boost": 3.9810717,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 4,
+              "enabled": true,
+              "release": 250,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 5000,
+                "gain": 0.3548134,
+                "width": 0.5
+              },
+              "low": {
+                "frequency": 280,
+                "gain": 0.56234133,
+                "width": 0.5
+              },
+              "mid": {
+                "frequency": 1000,
+                "gain": 3.5481339,
+                "width": 2
+              }
+            },
+            "volume": 0.6
+          }
+        },
+        "id": "405c612b-3696-4910-a15b-7eb2dac8574b",
+        "name": "AM Radio",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Windows",
+        "id": "438dde17-6ab9-49c1-a10a-72435d616160",
+        "macro": {
+          "actionName": "Left Windows + B",
+          "keystroke": {
+            "code": 5,
+            "modifiers": [
+              227
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Set Focus in Notification Area",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "45912c1e-0237-4698-ac65-a591a7464070",
+        "macro": {
+          "action": {
+            "actionId": "obs_desktop_mute_toggle",
+            "integrationId": "ae67192054b1d99f"
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OBS_DESKTOP_MUTE_TOGGLE"
+      },
+      {
+        "attribute": "EQUALIZER",
+        "equalizer": {
+          "advanced": [
+            3.6,
+            2.64,
+            1.68,
+            0.96,
+            0.96,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "deviceType": "HEADSET",
+          "name": "EQUALIZER_BASS_BOOST",
+          "simple": [
+            0,
+            0
+          ],
+          "type": "ADVANCED"
+        },
+        "id": "4b5147ba-0818-4c77-9dd4-152072c20042",
+        "name": "EQUALIZER_BASS_BOOST",
+        "readOnly": true
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "4e3b74a9-dff6-4bba-a1f2-d4062765e0f4",
+        "macro": {
+          "action": {
+            "actionId": "obs_mic_mute_toggle",
+            "integrationId": "ae67192054b1d99f"
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OBS_MIC_MUTE_TOGGLE"
+      },
+      {
+        "attribute": "PRO_EQUALIZER",
+        "id": "50487783-6987-4160-a2d4-e146f7ac6640",
+        "name": "TSM Bjergsen",
+        "proEqualizer": {
+          "bands": [
+            2,
+            2,
+            -1,
+            4,
+            4
+          ],
+          "deviceType": "HEADSET",
+          "name": "TSM Bjergsen",
+          "tag": "PRO_PRESET",
+          "type": "PRO"
+        },
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "BLUE_VOICE_PRESET_PRO_TSM_HAMLINZ",
+            "tag": "PRO_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 10,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 500,
+              "threshold": -18
+            },
+            "deEsser": {
+              "attack": 5,
+              "enabled": true,
+              "frequency": 5500,
+              "ratio": 3,
+              "release": 250,
+              "threshold": -6
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 75
+            },
+            "expander": {
+              "attack": 5,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 6,
+              "release": 250,
+              "threshold": -25,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.46,
+            "limiter": {
+              "attack": 5,
+              "boost": 3,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 2.5,
+              "enabled": true,
+              "release": 200,
+              "sensitivity": 9
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 3000,
+                "gain": 2.1745427,
+                "width": 1
+              },
+              "low": {
+                "frequency": 180,
+                "gain": 4.4889164,
+                "width": 2
+              },
+              "mid": {
+                "frequency": 400,
+                "gain": 3.8082182,
+                "width": 1
+              }
+            },
+            "volume": 0.32
+          }
+        },
+        "id": "51eca924-8bd9-4e60-8466-5cc9972d7a98",
+        "name": "BLUE_VOICE_PRESET_PRO_TSM_HAMLINZ",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Editing",
+        "id": "55fb9e59-f0ba-4745-917a-b225f4833272",
+        "macro": {
+          "actionName": "Ctrl + C",
+          "keystroke": {
+            "code": 6,
+            "modifiers": [
+              224
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Copy",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "CAMERA_SETTINGS",
+        "cameraSettings": {
+          "exposure": {
+            "mode": "AUTO",
+            "value": -5
+          },
+          "focus": {
+            "mode": "AUTO"
+          },
+          "fov": 78,
+          "hdr": true,
+          "iris": {
+            "mode": "MANUAL"
+          },
+          "pan": {
+            "mode": "MANUAL"
+          },
+          "priority": "FRAME_RATE",
+          "roll": {
+            "mode": "MANUAL"
+          },
+          "tilt": {
+            "mode": "MANUAL"
+          },
+          "zoom": {
+            "mode": "MANUAL",
+            "value": 100
+          }
+        },
+        "id": "570d3eeb-abcf-451d-0000-9d65f64ce5a0",
+        "name": "STREAMING",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "id": "58af7990-df5c-4452-8f55-6aeaa8524d8e",
+        "macro": {
+          "sequence": {
+            "defaultDelay": 50,
+            "heldSequence": {
+              "components": [
+                {
+                  "mouse": {
+                    "button": {
+                      "hidUsage": 2,
+                      "isDown": true
+                    }
+                  }
+                },
+                {
+                  "delay": {
+                    "durationMs": 23
+                  }
+                },
+                {
+                  "mouse": {
+                    "button": {
+                      "hidUsage": 2
+                    }
+                  }
+                },
+                {
+                  "delay": {
+                    "durationMs": 23
+                  }
+                }
+              ]
+            },
+            "pressSequence": {},
+            "releaseSequence": {},
+            "showUpDown": true,
+            "simpleSequence": {},
+            "toggleSequence": {},
+            "useRepeatActions": true
+          },
+          "type": "SEQUENCE"
+        },
+        "name": "ac1"
+      },
+      {
+        "attribute": "EQUALIZER",
+        "equalizer": {
+          "advanced": [
+            0,
+            0,
+            -6,
+            -5,
+            -3,
+            -2,
+            -3,
+            -3,
+            -5,
+            -6
+          ],
+          "deviceType": "SPEAKER",
+          "name": "EQUALIZER_FPS",
+          "simple": [
+            0,
+            0
+          ],
+          "type": "ADVANCED"
+        },
+        "id": "58d82764-0486-4068-a818-68d1cc87e91d",
+        "name": "EQUALIZER_FPS",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Windows",
+        "id": "5b69a9aa-73cf-4632-995d-78ecbacfc021",
+        "macro": {
+          "actionName": "Left Windows + A",
+          "keystroke": {
+            "code": 4,
+            "modifiers": [
+              227
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Open Action Center",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Navigation",
+        "id": "5b9e7dc2-7d39-461b-bc4a-0c719361a174",
+        "macro": {
+          "actionName": "Alt + Left",
+          "keystroke": {
+            "code": 80,
+            "modifiers": [
+              226
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Go Back",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "PRO_EQUALIZER",
+        "id": "5d42a856-1b6f-4c2a-9ab1-be086e53935f",
+        "name": "EQUALIZER_MOBA",
+        "proEqualizer": {
+          "bands": [
+            0,
+            -2,
+            3,
+            3,
+            3
+          ],
+          "deviceType": "HEADSET",
+          "name": "EQUALIZER_MOBA",
+          "type": "PRO"
+        },
+        "readOnly": true
+      },
+      {
+        "attribute": "VIDEO_SETTINGS",
+        "id": "5ddce669-57c3-40f6-0000-f2aabe64dbd5",
+        "name": "ZOMBIE",
+        "readOnly": true,
+        "videoSettings": {
+          "antiFlicker": 60,
+          "brightness": {
+            "mode": "MANUAL",
+            "value": 95
+          },
+          "color": {
+            "mode": "MANUAL"
+          },
+          "contrast": {
+            "mode": "MANUAL",
+            "value": 80
+          },
+          "gain": {
+            "mode": "MANUAL",
+            "value": 128
+          },
+          "gamma": {
+            "mode": "MANUAL"
+          },
+          "hue": {
+            "mode": "MANUAL",
+            "value": 50
+          },
+          "saturation": {
+            "mode": "MANUAL",
+            "value": 128
+          },
+          "sharpness": {
+            "mode": "MANUAL",
+            "value": 128
+          },
+          "whiteBalance": {
+            "mode": "AUTO",
+            "value": 4280
+          }
+        }
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "BLUE_VOICE_PRESET_AM_RADIO",
+            "tag": "BLUE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 10,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 20,
+              "release": 500,
+              "threshold": -18
+            },
+            "deEsser": {
+              "attack": 5,
+              "frequency": 7000,
+              "ratio": 4,
+              "release": 250
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 160
+            },
+            "expander": {
+              "attack": 5,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 4,
+              "release": 250,
+              "threshold": -24,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.7,
+            "limiter": {
+              "attack": 5,
+              "boost": 5,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -12,
+              "bias": 2.5,
+              "enabled": true,
+              "release": 250,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 5000,
+                "gain": 0.17782794,
+                "width": 0.5
+              },
+              "low": {
+                "frequency": 310,
+                "gain": 0.63162673,
+                "width": 0.5
+              },
+              "mid": {
+                "frequency": 1000,
+                "gain": 5.6234131,
+                "width": 4
+              }
+            },
+            "volume": 0.7
+          }
+        },
+        "id": "5f33fddb-e6e1-4460-a5a6-13ba2b57ba4b",
+        "name": "BLUE_VOICE_PRESET_AM_RADIO",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "09_Crisp and Modern",
+            "tag": "MICROPHONE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 10,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 250,
+              "threshold": -18
+            },
+            "deEsser": {
+              "attack": 5,
+              "enabled": true,
+              "frequency": 7000,
+              "ratio": 3,
+              "release": 250,
+              "threshold": -12
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 70
+            },
+            "expander": {
+              "attack": 10,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 6,
+              "release": 250,
+              "threshold": -25,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.6,
+            "limiter": {
+              "attack": 5,
+              "boost": 5.6234131,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 2,
+              "enabled": true,
+              "release": 225,
+              "sensitivity": 11
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 5000,
+                "gain": 2.818383,
+                "width": 2
+              },
+              "low": {
+                "frequency": 160,
+                "gain": 1.9952623,
+                "width": 1
+              },
+              "mid": {
+                "frequency": 500,
+                "gain": 0.3548134,
+                "width": 0.5
+              }
+            },
+            "volume": 0.6
+          }
+        },
+        "id": "5f4c3eac-c600-4966-ac65-b029ff3a10cf",
+        "name": "Crisp and Modern",
+        "readOnly": true
+      },
+      {
+        "attribute": "EQUALIZER",
+        "equalizer": {
+          "advanced": [
+            0,
+            -1.92,
+            -2.4,
+            0,
+            4.32,
+            1.92,
+            3.6,
+            7.68,
+            3.6,
+            0
+          ],
+          "deviceType": "HEADSET",
+          "name": "EQUALIZER_MOBA",
+          "simple": [
+            0,
+            0
+          ],
+          "type": "ADVANCED"
+        },
+        "id": "617470b0-7712-4f74-8da0-d4ca9283c8fb",
+        "name": "EQUALIZER_MOBA",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "BLUE_VOICE_PRESET_BROADCASTER_2",
+            "tag": "BLUE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 8,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 250,
+              "threshold": -6
+            },
+            "deEsser": {
+              "attack": 5,
+              "enabled": true,
+              "frequency": 5573,
+              "ratio": 4,
+              "release": 250,
+              "threshold": 3
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 75
+            },
+            "expander": {
+              "attack": 5,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 2,
+              "release": 250,
+              "threshold": -48,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.75,
+            "limiter": {
+              "attack": 5,
+              "boost": 2,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 3,
+              "enabled": true,
+              "release": 200,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 6000,
+                "gain": 3.8082182,
+                "width": 1
+              },
+              "low": {
+                "frequency": 180,
+                "gain": 4.4889164,
+                "width": 2
+              },
+              "mid": {
+                "frequency": 720,
+                "gain": 1.0854255,
+                "width": 1
+              }
+            },
+            "volume": 0.7
+          }
+        },
+        "id": "628f4c22-183a-43b6-b7c7-274045a26b1e",
+        "name": "BLUE_VOICE_PRESET_BROADCASTER_2",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Editing",
+        "id": "6360db71-b9db-4b54-b689-62955960bafb",
+        "macro": {
+          "actionName": "Ctrl + V",
+          "keystroke": {
+            "code": 25,
+            "modifiers": [
+              224
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Paste",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "BLUE_VOICE_PRESET_BROADCASTER_1",
+            "tag": "BLUE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 2,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 180,
+              "threshold": -6
+            },
+            "deEsser": {
+              "attack": 3,
+              "enabled": true,
+              "frequency": 6000,
+              "ratio": 4,
+              "release": 250,
+              "threshold": -6
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 75
+            },
+            "expander": {
+              "attack": 2,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 4,
+              "release": 100,
+              "threshold": -24,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.75,
+            "limiter": {
+              "attack": 5,
+              "boost": 4,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 3,
+              "enabled": true,
+              "release": 250,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 4000,
+                "gain": 3.8082182,
+                "width": 1
+              },
+              "low": {
+                "frequency": 200,
+                "gain": 4.4889164,
+                "width": 2
+              },
+              "mid": {
+                "frequency": 900,
+                "gain": 1.0854255,
+                "width": 1
+              }
+            },
+            "volume": 0.7
+          }
+        },
+        "id": "63f7b4c3-e442-40cc-96e0-9d561d07d066",
+        "name": "BLUE_VOICE_PRESET_BROADCASTER_1",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "BLUE_VOICE_PRESET_PRO_LONDON_SPITFIRE_PROFIT",
+            "tag": "PRO_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 2,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 400,
+              "threshold": -20
+            },
+            "deEsser": {
+              "attack": 2,
+              "enabled": true,
+              "frequency": 6000,
+              "ratio": 3,
+              "release": 200,
+              "threshold": -6
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 90
+            },
+            "expander": {
+              "attack": 10,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 6,
+              "release": 325,
+              "threshold": -30,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.85,
+            "limiter": {
+              "attack": 5,
+              "boost": 6,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 2.5,
+              "enabled": true,
+              "release": 100,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 5000,
+                "gain": 3.8082182,
+                "width": 1
+              },
+              "low": {
+                "frequency": 220,
+                "gain": 4.4889164,
+                "width": 1
+              },
+              "mid": {
+                "frequency": 600,
+                "gain": 1.3123249,
+                "width": 1
+              }
+            },
+            "volume": 0.7
+          }
+        },
+        "id": "641faaf5-9c9e-4233-a5fa-d9de61d90a59",
+        "name": "BLUE_VOICE_PRESET_PRO_LONDON_SPITFIRE_PROFIT",
+        "readOnly": true
+      },
+      {
+        "attribute": "EQUALIZER",
+        "equalizer": {
+          "advanced": [
+            -3,
+            -4,
+            -5,
+            -6,
+            -6,
+            -5,
+            -6,
+            0,
+            0,
+            0
+          ],
+          "deviceType": "SPEAKER",
+          "name": "EQUALIZER_CINEMATIC",
+          "simple": [
+            0,
+            0
+          ],
+          "type": "ADVANCED"
+        },
+        "id": "6856912f-c4be-4add-9f9c-56249d566be6",
+        "name": "EQUALIZER_CINEMATIC",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Windows",
+        "id": "69c98a2f-c3bd-4968-bb14-f235160b50c5",
+        "macro": {
+          "actionName": "Left Windows + T",
+          "keystroke": {
+            "code": 23,
+            "modifiers": [
+              227
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Cycle Task Bar Apps",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "00_Broadcaster 1",
+            "tag": "MICROPHONE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 2,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 180,
+              "threshold": -6
+            },
+            "deEsser": {
+              "attack": 5,
+              "enabled": true,
+              "frequency": 5500,
+              "ratio": 4,
+              "release": 250,
+              "threshold": -12
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 70
+            },
+            "expander": {
+              "attack": 2,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 4,
+              "release": 100,
+              "threshold": -32,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.61,
+            "limiter": {
+              "attack": 5,
+              "boost": 3.9810717,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -12,
+              "bias": 3,
+              "enabled": true,
+              "release": 250,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 4000,
+                "gain": 1.9952623,
+                "width": 1
+              },
+              "low": {
+                "frequency": 180,
+                "gain": 1.9952623,
+                "width": 1
+              },
+              "mid": {
+                "frequency": 470,
+                "gain": 0.3548134,
+                "width": 1
+              }
+            },
+            "volume": 0.6
+          }
+        },
+        "id": "6d344065-2e34-4c0c-9c4f-05e0f825a0cd",
+        "name": "Broadcaster 1",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Productivity",
+        "id": "6e93d030-ec06-4851-82b0-c60dd8fd80c0",
+        "macro": {
+          "actionName": "Ctrl + Esc",
+          "keystroke": {
+            "code": 41,
+            "modifiers": [
+              224
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Open Start",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Windows",
+        "id": "6f17eb61-d6b5-4a3a-9941-cd2c342f539f",
+        "macro": {
+          "actionName": "Left Windows + D",
+          "keystroke": {
+            "code": 7,
+            "modifiers": [
+              227
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Hide/Show Desktop",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "VIDEO_SETTINGS",
+        "id": "6fc5b9d8-957b-430f-0000-2b020a2fd6fa",
+        "name": "BLACK_AND_WHITE",
+        "readOnly": true,
+        "videoSettings": {
+          "antiFlicker": 60,
+          "brightness": {
+            "mode": "MANUAL",
+            "value": 128
+          },
+          "color": {
+            "mode": "MANUAL"
+          },
+          "contrast": {
+            "mode": "MANUAL",
+            "value": 128
+          },
+          "gain": {
+            "mode": "MANUAL",
+            "value": 128
+          },
+          "gamma": {
+            "mode": "MANUAL"
+          },
+          "hue": {
+            "mode": "MANUAL",
+            "value": 50
+          },
+          "saturation": {
+            "mode": "MANUAL"
+          },
+          "sharpness": {
+            "mode": "MANUAL",
+            "value": 128
+          },
+          "whiteBalance": {
+            "mode": "AUTO",
+            "value": 4280
+          }
+        }
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Productivity",
+        "id": "7279ad64-7b0b-4527-8791-a193c8c862fd",
+        "macro": {
+          "actionName": "Alt + F4",
+          "keystroke": {
+            "code": 61,
+            "modifiers": [
+              226
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Exit Active App",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "CAMERA_SETTINGS",
+        "cameraSettings": {
+          "exposure": {
+            "mode": "AUTO",
+            "value": -5
+          },
+          "focus": {
+            "mode": "AUTO"
+          },
+          "fov": 90,
+          "hdr": true,
+          "iris": {
+            "mode": "MANUAL"
+          },
+          "pan": {
+            "mode": "MANUAL"
+          },
+          "priority": "EXPOSURE",
+          "roll": {
+            "mode": "MANUAL"
+          },
+          "tilt": {
+            "mode": "MANUAL"
+          },
+          "zoom": {
+            "mode": "MANUAL",
+            "value": 100
+          }
+        },
+        "id": "74f97c2b-9839-4dea-0000-a55d5448ae62",
+        "name": "VIDEO_CALL",
+        "readOnly": true
+      },
+      {
+        "attribute": "EQUALIZER",
+        "equalizer": {
+          "advanced": [
+            0,
+            0,
+            -0.96,
+            -1.44,
+            3.84,
+            4.56,
+            3.12,
+            3.12,
+            1.92,
+            0.48
+          ],
+          "deviceType": "HEADSET",
+          "name": "EQUALIZER_FPS",
+          "simple": [
+            0,
+            0
+          ],
+          "type": "ADVANCED"
+        },
+        "id": "76b7a515-2c3c-4dab-bf65-48fff5318008",
+        "name": "EQUALIZER_FPS",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Windows",
+        "id": "7e333e13-cd0f-4604-8d09-99ef1743a1a9",
+        "macro": {
+          "actionName": "Left Windows + U",
+          "keystroke": {
+            "code": 24,
+            "modifiers": [
+              227
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Open Ease of Access Center",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "BLUE_VOICE_PRESET_HIGH_TONE_QUIET",
+            "tag": "BLUE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 2,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 400,
+              "threshold": -20
+            },
+            "deEsser": {
+              "attack": 2,
+              "enabled": true,
+              "frequency": 6000,
+              "ratio": 3,
+              "release": 200,
+              "threshold": -6
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 90
+            },
+            "expander": {
+              "attack": 10,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 6,
+              "release": 325,
+              "threshold": -25,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.85,
+            "limiter": {
+              "attack": 5,
+              "boost": 6,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 2.5,
+              "enabled": true,
+              "release": 100,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 5000,
+                "gain": 3.8082182,
+                "width": 1
+              },
+              "low": {
+                "frequency": 220,
+                "gain": 4.4889164,
+                "width": 1
+              },
+              "mid": {
+                "frequency": 600,
+                "gain": 1.3123249,
+                "width": 1
+              }
+            },
+            "volume": 0.7
+          }
+        },
+        "id": "84a9d547-0efb-4b4a-af01-963f5dbe322b",
+        "name": "BLUE_VOICE_PRESET_HIGH_TONE_QUIET",
+        "readOnly": true
+      },
+      {
+        "attribute": "EQUALIZER",
+        "equalizer": {
+          "advanced": [
+            3.12,
+            2.64,
+            1.92,
+            1.2,
+            1.2,
+            1.92,
+            1.2,
+            0,
+            0,
+            0
+          ],
+          "deviceType": "HEADSET",
+          "name": "EQUALIZER_CINEMATIC",
+          "simple": [
+            0,
+            0
+          ],
+          "type": "ADVANCED"
+        },
+        "id": "88615910-55f0-4e5a-88c8-855003ffa87a",
+        "name": "EQUALIZER_CINEMATIC",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Editing",
+        "id": "88d5382a-d664-4153-93a6-7b47326a6644",
+        "macro": {
+          "actionName": "Ctrl + X",
+          "keystroke": {
+            "code": 27,
+            "modifiers": [
+              224
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Cut",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "896e6e7b-7608-4caa-aa59-24ef42204231",
+        "macro": {
+          "action": {
+            "actionId": "obs_buffer_save",
+            "integrationId": "ae67192054b1d99f"
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OBS_SAVE_BUFFER"
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Editing",
+        "id": "8aaa73fe-6f00-4a23-ad9f-b30acdcc3785",
+        "macro": {
+          "actionName": "Ctrl + A",
+          "keystroke": {
+            "code": 4,
+            "modifiers": [
+              224
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Select All",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "VIDEO_SETTINGS",
+        "id": "8ac986e2-36b4-427d-0000-ee0fbf4abf5e",
+        "name": "SICKNESS",
+        "readOnly": true,
+        "videoSettings": {
+          "antiFlicker": 60,
+          "brightness": {
+            "mode": "MANUAL",
+            "value": 128
+          },
+          "color": {
+            "mode": "MANUAL"
+          },
+          "contrast": {
+            "mode": "MANUAL",
+            "value": 200
+          },
+          "gain": {
+            "mode": "MANUAL",
+            "value": 128
+          },
+          "gamma": {
+            "mode": "MANUAL"
+          },
+          "hue": {
+            "mode": "MANUAL",
+            "value": 50
+          },
+          "saturation": {
+            "mode": "MANUAL",
+            "value": 65
+          },
+          "sharpness": {
+            "mode": "MANUAL",
+            "value": 200
+          },
+          "whiteBalance": {
+            "mode": "AUTO",
+            "value": 4290
+          }
+        }
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Windows",
+        "id": "8b7f675f-cd9f-4e78-8883-dbc0c44e5403",
+        "macro": {
+          "actionName": "Left Windows + Ctrl + Enter",
+          "keystroke": {
+            "code": 40,
+            "modifiers": [
+              227,
+              224
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Open Narrator",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Windows",
+        "id": "90de47d9-ac5e-4d19-bc53-6bba4528fae0",
+        "macro": {
+          "actionName": "Left Windows + R",
+          "keystroke": {
+            "code": 21,
+            "modifiers": [
+              227
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Run dialog",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "EQUALIZER",
+        "equalizer": {
+          "advanced": [
+            0,
+            -0.96,
+            -0.96,
+            1.92,
+            3.6,
+            4.32,
+            3.6,
+            3.6,
+            1.68,
+            0.96
+          ],
+          "deviceType": "HEADSET",
+          "name": "EQUALIZER_COMMUNICATIONS",
+          "simple": [
+            0,
+            0
+          ],
+          "type": "ADVANCED"
+        },
+        "id": "937a09ad-86d3-495c-847a-de859fc59712",
+        "name": "EQUALIZER_COMMUNICATIONS",
+        "readOnly": true
+      },
+      {
+        "attribute": "MOUSE_SETTINGS",
+        "id": "9b85425b-8c71-4b15-808c-1204c08f0000",
+        "mouseSettings": {
+          "dpiTable": {
+            "activeDpi": 800,
+            "defaultDpi": 800,
+            "levels": [
+              400,
+              800,
+              1600,
+              3200
+            ],
+            "shiftDpi": 400
+          },
+          "pointerSpeed": {},
+          "reportRate": {
+            "value": 1000
+          }
+        },
+        "name": "Mouse",
+        "readOnly": true
+      },
+      {
+        "attribute": "FIRMWARE_LIGHTING_SETTINGS",
+        "firmwareLightingSettings": {
+          "effects": [
+            {
+              "cycleParams": {
+                "intensity": 1,
+                "periodInMs": 8000
+              },
+              "id": "CYCLE",
+              "zoneType": "ZONE_PRIMARY"
+            },
+            {
+              "cycleParams": {
+                "intensity": 1,
+                "periodInMs": 8000
+              },
+              "id": "CYCLE",
+              "zoneType": "ZONE_BRANDING"
+            }
+          ]
+        },
+        "id": "9b85425b-8c71-4b15-808c-1206c08f0000",
+        "name": "G403 HERO Firmware Lighting",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "BLUE_VOICE_PRESET_PRO_TSM_ABLAZEOLIVE",
+            "tag": "PRO_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 2,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 180,
+              "threshold": -6
+            },
+            "deEsser": {
+              "attack": 3,
+              "enabled": true,
+              "frequency": 6000,
+              "ratio": 4,
+              "release": 250,
+              "threshold": -6
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 75
+            },
+            "expander": {
+              "attack": 2,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 4,
+              "release": 100,
+              "threshold": -24,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.75,
+            "limiter": {
+              "attack": 5,
+              "boost": 4,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 3,
+              "enabled": true,
+              "release": 250,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 4000,
+                "gain": 3.8082182,
+                "width": 1
+              },
+              "low": {
+                "frequency": 200,
+                "gain": 4.4889164,
+                "width": 2
+              },
+              "mid": {
+                "frequency": 900,
+                "gain": 1.0854255,
+                "width": 1
+              }
+            },
+            "volume": 0.8
+          }
+        },
+        "id": "9c5c09b5-0305-45ea-9eee-a224b1ba66c3",
+        "name": "BLUE_VOICE_PRESET_PRO_TSM_ABLAZEOLIVE",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Productivity",
+        "id": "9e242d09-eece-420b-b008-1ce34965e3fc",
+        "macro": {
+          "actionName": "Alt + Esc",
+          "keystroke": {
+            "code": 41,
+            "modifiers": [
+              226
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Cycle Through Apps",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "9e4ea35c-5880-4e14-8cc5-6520558b95e1",
+        "macro": {
+          "action": {
+            "actionId": "obs_stream_toggle",
+            "integrationId": "ae67192054b1d99f"
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OBS_TOGGLE_STREAM"
+      },
+      {
+        "attribute": "PRO_EQUALIZER",
+        "id": "9eb2e33c-cf6d-42b6-977a-f8939b65ddab",
+        "name": "TSM Hamlinz",
+        "proEqualizer": {
+          "bands": [
+            1,
+            1,
+            2,
+            3,
+            -1
+          ],
+          "deviceType": "HEADSET",
+          "name": "TSM Hamlinz",
+          "tag": "PRO_PRESET",
+          "type": "PRO"
+        },
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "03_FM Station",
+            "tag": "MICROPHONE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 5,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 12,
+              "release": 250,
+              "threshold": -12
+            },
+            "deEsser": {
+              "attack": 5,
+              "enabled": true,
+              "frequency": 7000,
+              "ratio": 4,
+              "release": 250,
+              "threshold": -16
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 75
+            },
+            "expander": {
+              "attack": 5,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 2,
+              "release": 250,
+              "threshold": -32,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.6,
+            "limiter": {
+              "attack": 5,
+              "boost": 4,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -12,
+              "bias": 2.5,
+              "enabled": true,
+              "release": 100,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 5000,
+                "gain": 1.9952623,
+                "width": 1
+              },
+              "low": {
+                "frequency": 160,
+                "gain": 2.5118864,
+                "width": 3
+              },
+              "mid": {
+                "frequency": 410,
+                "gain": 0.3548134,
+                "width": 1
+              }
+            },
+            "volume": 0.6
+          }
+        },
+        "id": "a1d1913a-8202-4df0-96f1-4ce433401fda",
+        "name": "FM Station",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "BLUE_VOICE_PRESET_LOW_TONE_LOUD",
+            "tag": "BLUE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 10,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 500,
+              "threshold": -18
+            },
+            "deEsser": {
+              "attack": 5,
+              "enabled": true,
+              "frequency": 5500,
+              "ratio": 3,
+              "release": 250,
+              "threshold": -6
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 75
+            },
+            "expander": {
+              "attack": 5,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 6,
+              "release": 250,
+              "threshold": -25,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.75,
+            "limiter": {
+              "attack": 5,
+              "boost": 3,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 2.5,
+              "enabled": true,
+              "release": 200,
+              "sensitivity": 9
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 3000,
+                "gain": 3.8082182,
+                "width": 1
+              },
+              "low": {
+                "frequency": 180,
+                "gain": 4.4889164,
+                "width": 2
+              },
+              "mid": {
+                "frequency": 400,
+                "gain": 1.5392243,
+                "width": 1
+              }
+            },
+            "volume": 0.7
+          }
+        },
+        "id": "a5943725-9af8-4e43-9db0-328958e5d448",
+        "name": "BLUE_VOICE_PRESET_LOW_TONE_LOUD",
+        "readOnly": true
+      },
+      {
+        "attribute": "PRO_EQUALIZER",
+        "id": "aa1e0f3d-d5d1-42e3-ad24-0193e27f4416",
+        "name": "TSM Myth",
+        "proEqualizer": {
+          "bands": [
+            3,
+            1,
+            2,
+            3,
+            2
+          ],
+          "deviceType": "HEADSET",
+          "name": "TSM Myth",
+          "tag": "PRO_PRESET",
+          "type": "PRO"
+        },
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "BLUE_VOICE_PRESET_FM_STATION",
+            "tag": "BLUE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 5,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 12,
+              "release": 250,
+              "threshold": -9
+            },
+            "deEsser": {
+              "attack": 5,
+              "frequency": 7000,
+              "ratio": 4,
+              "release": 250
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 75
+            },
+            "expander": {
+              "attack": 5,
+              "attenuationMax": -20,
+              "hysteresis": 5,
+              "ratio": 2,
+              "release": 250,
+              "threshold": -48,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.7,
+            "limiter": {
+              "attack": 5,
+              "boost": 4,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -12,
+              "bias": 2.5,
+              "enabled": true,
+              "release": 100,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 5000,
+                "gain": 3.1275153,
+                "width": 1
+              },
+              "low": {
+                "frequency": 160,
+                "gain": 3.5813189,
+                "width": 5
+              },
+              "mid": {
+                "frequency": 410,
+                "gain": 0.63162673,
+                "width": 2
+              }
+            },
+            "volume": 0.7
+          }
+        },
+        "id": "af167a0c-a936-4cda-9706-1d9b82b232be",
+        "name": "BLUE_VOICE_PRESET_FM_STATION",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "07_Low Voice - Soft",
+            "tag": "MICROPHONE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 10,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 250,
+              "threshold": -18
+            },
+            "deEsser": {
+              "attack": 5,
+              "enabled": true,
+              "frequency": 5500,
+              "ratio": 3,
+              "release": 250,
+              "threshold": -6
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 75
+            },
+            "expander": {
+              "attack": 5,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 4,
+              "release": 250,
+              "threshold": -32,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.7,
+            "limiter": {
+              "attack": 5,
+              "boost": 6,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 2,
+              "enabled": true,
+              "release": 100,
+              "sensitivity": 9
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 3000,
+                "gain": 1.9952623,
+                "width": 1
+              },
+              "low": {
+                "frequency": 180,
+                "gain": 2.2387211,
+                "width": 1
+              },
+              "mid": {
+                "frequency": 400,
+                "gain": 0.39810717,
+                "width": 1
+              }
+            },
+            "volume": 0.6
+          }
+        },
+        "id": "afd6ce93-cf10-49d9-8967-1c80f1f55eeb",
+        "name": "Low Voice - Soft",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Windows",
+        "id": "b097dbae-68e7-4466-b28d-95fbb33323ee",
+        "macro": {
+          "actionName": "Left Windows + S",
+          "keystroke": {
+            "code": 22,
+            "modifiers": [
+              227
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Open Search",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "PRO_EQUALIZER",
+        "id": "b4bdd01f-a3a8-4163-817e-43808ffbf4bf",
+        "name": "G2 shox",
+        "proEqualizer": {
+          "bands": [
+            1,
+            -1,
+            -2,
+            1,
+            2
+          ],
+          "deviceType": "HEADSET",
+          "name": "G2 shox",
+          "tag": "PRO_PRESET",
+          "type": "PRO"
+        },
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Windows",
+        "id": "bad29e35-cf79-4d7b-9a5b-5b0bd28325f5",
+        "macro": {
+          "actionName": "Left Windows + I",
+          "keystroke": {
+            "code": 12,
+            "modifiers": [
+              227
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Open Windows Setting",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "c06f0a84-0dea-47a6-94b0-684032c74079",
+        "macro": {
+          "action": {
+            "actionId": "ow_perform_command",
+            "integrationId": "3776b8da1238dc5",
+            "parameters": {
+              "app_selection": "lnhebboianabbebhnpoodokcdcnmikacoeijpjfe",
+              "command_selection": "ow_capture_video"
+            }
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OW_CAPTURE_VIDEO"
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Windows",
+        "id": "c2d3e2e1-93c0-474e-9abb-728b97c14b4b",
+        "macro": {
+          "actionName": "Left Windows + X",
+          "keystroke": {
+            "code": 27,
+            "modifiers": [
+              227
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Open Quick Links",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "BLUE_VOICE_PRESET_HIGH_TONE_LOUD",
+            "tag": "BLUE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 3,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 500,
+              "threshold": -22
+            },
+            "deEsser": {
+              "attack": 5,
+              "enabled": true,
+              "frequency": 5500,
+              "ratio": 4,
+              "release": 300
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 90
+            },
+            "expander": {
+              "attack": 10,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 6,
+              "release": 325,
+              "threshold": -25,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.75,
+            "limiter": {
+              "attack": 5,
+              "boost": 3,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 2,
+              "enabled": true,
+              "release": 75,
+              "sensitivity": 9
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 7000,
+                "gain": 3.8082182,
+                "width": 1
+              },
+              "low": {
+                "frequency": 220,
+                "gain": 4.0351176,
+                "width": 1
+              },
+              "mid": {
+                "frequency": 600,
+                "gain": 1.5392243,
+                "width": 1
+              }
+            },
+            "volume": 0.7
+          }
+        },
+        "id": "c7a00991-cc2e-4f78-9823-21674d31465e",
+        "name": "BLUE_VOICE_PRESET_HIGH_TONE_LOUD",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Editing",
+        "id": "c851e802-7d45-4721-934f-1987529588ed",
+        "macro": {
+          "actionName": "Ctrl + Z",
+          "keystroke": {
+            "code": 29,
+            "modifiers": [
+              224
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Undo",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "ca3abe0d-1351-4b43-88f8-bd97d1a8a9a3",
+        "macro": {
+          "action": {
+            "actionId": "discord_voice_deafen",
+            "integrationId": "9f1134cfb89202f3"
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_DISCORD_VOICE_DEAFEN"
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Windows",
+        "id": "cc49b1b1-4265-460d-9f4f-299fee3a1389",
+        "macro": {
+          "actionName": "Left Windows + .",
+          "keystroke": {
+            "code": 55,
+            "modifiers": [
+              227
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Open Emoji Panel",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "EQUALIZER",
+        "equalizer": {
+          "advanced": [
+            0,
+            -0.96,
+            -0.96,
+            1.92,
+            3.6,
+            4.32,
+            3.6,
+            3.6,
+            1.68,
+            0.96
+          ],
+          "deviceType": "SPEAKER",
+          "name": "EQUALIZER_COMMUNICATIONS",
+          "simple": [
+            0,
+            0
+          ],
+          "type": "ADVANCED"
+        },
+        "id": "d27c3937-c03e-4fd5-9871-19c773513060",
+        "name": "EQUALIZER_COMMUNICATIONS",
+        "readOnly": true
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "d37245a2-4bd6-4622-b1e7-e534cd57df8d",
+        "macro": {
+          "action": {
+            "actionId": "ow_perform_command",
+            "integrationId": "3776b8da1238dc5",
+            "parameters": {
+              "app_selection": "oepmnephgakhodlemnladfmcnhfhbfdnbgolmcok",
+              "command_selection": "ow_stream_toggle"
+            }
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OW_STREAM_TOGGLE"
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "BLUE_VOICE_PRESET_PRO_TSM_DAEQUAN",
+            "tag": "PRO_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 8,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 250,
+              "threshold": -6
+            },
+            "deEsser": {
+              "attack": 5,
+              "enabled": true,
+              "frequency": 5573,
+              "ratio": 4,
+              "release": 250,
+              "threshold": 3
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 75
+            },
+            "expander": {
+              "attack": 5,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 2,
+              "release": 250,
+              "threshold": -48,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.5,
+            "limiter": {
+              "attack": 5,
+              "boost": 2,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 3,
+              "enabled": true,
+              "release": 200,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 6000,
+                "gain": 3.8082182,
+                "width": 1
+              },
+              "low": {
+                "frequency": 180,
+                "gain": 4.171257,
+                "width": 2
+              },
+              "mid": {
+                "frequency": 720,
+                "gain": 1.629984,
+                "width": 1
+              }
+            },
+            "volume": 0.58
+          }
+        },
+        "id": "d8df9e5f-0611-4f16-80aa-f2322a38a6d4",
+        "name": "BLUE_VOICE_PRESET_PRO_TSM_DAEQUAN",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Productivity",
+        "id": "db19a51d-ca42-43c0-bd99-34e7e9b32026",
+        "macro": {
+          "actionName": "Ctrl + Shift + Esc",
+          "keystroke": {
+            "code": 41,
+            "modifiers": [
+              224,
+              225
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Open Task Manager",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Productivity",
+        "id": "e0db7dcc-3b42-411f-b43d-e47912425660",
+        "macro": {
+          "actionName": "Alt + Tab",
+          "keystroke": {
+            "code": 43,
+            "modifiers": [
+              226
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Switch Between Apps",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Windows",
+        "id": "e0f194a9-20f2-4d5c-b252-3b66a10be1c3",
+        "macro": {
+          "actionName": "Left Windows + L",
+          "keystroke": {
+            "code": 15,
+            "modifiers": [
+              227
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Lock PC",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "02_Classic Radio Voice",
+            "tag": "MICROPHONE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 10,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 12,
+              "release": 250,
+              "threshold": -20
+            },
+            "deEsser": {
+              "attack": 3,
+              "enabled": true,
+              "frequency": 7000,
+              "ratio": 4,
+              "release": 250,
+              "threshold": -18
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 60
+            },
+            "expander": {
+              "attack": 2,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 4,
+              "release": 100,
+              "threshold": -24,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.6,
+            "limiter": {
+              "attack": 5,
+              "boost": 4.466836,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 3,
+              "enabled": true,
+              "release": 250,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 4000,
+                "gain": 2.2387211,
+                "width": 1
+              },
+              "low": {
+                "frequency": 100,
+                "gain": 2.5118864,
+                "width": 2
+              },
+              "mid": {
+                "frequency": 900,
+                "gain": 0.31622776,
+                "width": 1
+              }
+            },
+            "volume": 0.6
+          }
+        },
+        "id": "e4098c51-ca1f-4020-80d8-9556093b53cb",
+        "name": "Classic Radio Voice",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "BLUE_VOICE_PRESET_LOW_TONE_QUIET",
+            "tag": "BLUE_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 5,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 400,
+              "threshold": -18
+            },
+            "deEsser": {
+              "attack": 5,
+              "enabled": true,
+              "frequency": 5500,
+              "ratio": 3,
+              "release": 250,
+              "threshold": -9
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 75
+            },
+            "expander": {
+              "attack": 5,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 4,
+              "release": 250,
+              "threshold": -30,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.85,
+            "limiter": {
+              "attack": 5,
+              "boost": 6,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 2.5,
+              "enabled": true,
+              "release": 100,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 4000,
+                "gain": 3.8082182,
+                "width": 1
+              },
+              "low": {
+                "frequency": 180,
+                "gain": 4.7158155,
+                "width": 1
+              },
+              "mid": {
+                "frequency": 750,
+                "gain": 1.5392243,
+                "width": 1
+              }
+            },
+            "volume": 0.7
+          }
+        },
+        "id": "e4398d13-e839-44ee-bcba-aa06ca19758e",
+        "name": "BLUE_VOICE_PRESET_LOW_TONE_QUIET",
+        "readOnly": true
+      },
+      {
+        "attribute": "EQUALIZER",
+        "equalizer": {
+          "advanced": [
+            0,
+            -10,
+            -11,
+            0,
+            -2,
+            -5,
+            -3,
+            -17,
+            -3,
+            0
+          ],
+          "deviceType": "SPEAKER",
+          "name": "EQUALIZER_MOBA",
+          "simple": [
+            0,
+            0
+          ],
+          "type": "ADVANCED"
+        },
+        "id": "e6b6fdd4-7988-4c2c-8122-3853c3a1b2f4",
+        "name": "EQUALIZER_MOBA",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Windows",
+        "id": "e89b1390-0eee-4593-af2e-38f7df0b3a88",
+        "macro": {
+          "actionName": "Left Windows + Tab",
+          "keystroke": {
+            "code": 43,
+            "modifiers": [
+              227
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Open Task View",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "BLUE_VOICE_PRESET_PRO_TSM_SPICA",
+            "tag": "PRO_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 8,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 250,
+              "threshold": -6
+            },
+            "deEsser": {
+              "attack": 5,
+              "enabled": true,
+              "frequency": 5573,
+              "ratio": 4,
+              "release": 250,
+              "threshold": 3
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 75
+            },
+            "expander": {
+              "attack": 5,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 2,
+              "release": 250,
+              "threshold": -48,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.75,
+            "limiter": {
+              "attack": 5,
+              "boost": 2,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 3,
+              "enabled": true,
+              "release": 200,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 6000,
+                "gain": 3.8082182,
+                "width": 1
+              },
+              "low": {
+                "frequency": 180,
+                "gain": 4.4889164,
+                "width": 2
+              },
+              "mid": {
+                "frequency": 720,
+                "gain": 1.0854255,
+                "width": 1
+              }
+            },
+            "volume": 0.8
+          }
+        },
+        "id": "eb22e57e-fd7d-45c6-bfa1-fd2dbb8cf9c1",
+        "name": "BLUE_VOICE_PRESET_PRO_TSM_SPICA",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Windows",
+        "id": "ecf86ed1-bd7e-4318-ac5e-8f0199caf296",
+        "macro": {
+          "actionName": "Left Windows + K",
+          "keystroke": {
+            "code": 14,
+            "modifiers": [
+              227
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Open Connect Quick Action",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "MACRO_PLAYBACK",
+        "id": "eea5a50f-878e-43b9-b8b0-aafbcde35566",
+        "macro": {
+          "action": {
+            "actionId": "ow_perform_command",
+            "integrationId": "3776b8da1238dc5",
+            "parameters": {
+              "app_selection": "hffhbjnafafjnehejohpkfhjdenpifhihebpkhni",
+              "command_selection": "ow_replay_capture"
+            }
+          },
+          "type": "ACTION"
+        },
+        "name": "APPLET_OW_REPLAY_CAPTURE"
+      },
+      {
+        "attribute": "PRO_EQUALIZER",
+        "id": "f2372777-f4eb-4370-97a1-74e7b606fd48",
+        "name": "EQUALIZER_FPS",
+        "proEqualizer": {
+          "bands": [
+            2,
+            2,
+            0,
+            4,
+            1
+          ],
+          "deviceType": "HEADSET",
+          "name": "EQUALIZER_FPS",
+          "type": "PRO"
+        },
+        "readOnly": true
+      },
+      {
+        "attribute": "BLUE_VOICE_SETTINGS",
+        "blueVoiceSettings": {
+          "description": {
+            "name": "BLUE_VOICE_PRESET_PRO_TSM_TACTICAL",
+            "tag": "PRO_PRESET"
+          },
+          "settings": {
+            "compressor": {
+              "attack": 2,
+              "enabled": true,
+              "makeup": 1,
+              "ratio": 3,
+              "release": 180,
+              "threshold": -6
+            },
+            "deEsser": {
+              "attack": 3,
+              "enabled": true,
+              "frequency": 6000,
+              "ratio": 4,
+              "release": 250,
+              "threshold": -6
+            },
+            "dePopper": {
+              "enabled": true,
+              "frequency": 75
+            },
+            "expander": {
+              "attack": 2,
+              "attenuationMax": -20,
+              "enabled": true,
+              "hysteresis": 5,
+              "ratio": 4,
+              "release": 100,
+              "threshold": -24,
+              "thresholdAutoSensibility": 20
+            },
+            "inputGain": 0.81,
+            "limiter": {
+              "attack": 5,
+              "boost": 4,
+              "release": 250
+            },
+            "noiseReduction": {
+              "attenuationMax": -18,
+              "bias": 3,
+              "enabled": true,
+              "release": 250,
+              "sensitivity": 6
+            },
+            "voiceEq": {
+              "enabled": true,
+              "high": {
+                "frequency": 4000,
+                "gain": 3.8082182,
+                "width": 1
+              },
+              "low": {
+                "frequency": 200,
+                "gain": 4.3527765,
+                "width": 2
+              },
+              "mid": {
+                "frequency": 900,
+                "gain": 1.0854255,
+                "width": 1
+              }
+            },
+            "volume": 0.76
+          }
+        },
+        "id": "f5ccde7c-9561-46d5-b720-f480dd705cb5",
+        "name": "BLUE_VOICE_PRESET_PRO_TSM_TACTICAL",
+        "readOnly": true
+      },
+      {
+        "attribute": "EQUALIZER",
+        "equalizer": {
+          "advanced": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            -3,
+            -4,
+            -5,
+            -6,
+            -6
+          ],
+          "deviceType": "SPEAKER",
+          "name": "EQUALIZER_BASS_BOOST",
+          "simple": [
+            0,
+            0
+          ],
+          "type": "ADVANCED"
+        },
+        "id": "fd92f827-4096-4e6c-96b5-b3e7620d1502",
+        "name": "EQUALIZER_BASS_BOOST",
+        "readOnly": true
+      },
+      {
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "attribute": "MACRO_PLAYBACK",
+        "category": "Editing",
+        "id": "fde6b256-960d-42a7-bc16-ec161757da7e",
+        "macro": {
+          "actionName": "Ctrl + Y",
+          "keystroke": {
+            "code": 28,
+            "modifiers": [
+              224
+            ]
+          },
+          "type": "KEYSTROKE"
+        },
+        "name": "Redo",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147",
+        "readOnly": true
+      },
+      {
+        "attribute": "MOUSE_SETTINGS",
+        "id": "fe4f8a51-7eb0-4f4c-b6e5-74c28c5d6f6e",
+        "mouseSettings": {
+          "dpiTable": {
+            "activeDpi": 1600,
+            "defaultDpi": 800,
+            "levels": [
+              400,
+              800,
+              1600,
+              3200
+            ],
+            "shiftDpi": 400
+          },
+          "pointerSpeed": {},
+          "reportRate": {
+            "value": 1000
+          }
+        },
+        "name": "Mouse",
+        "profileId": "420fd454-0c36-499d-bde4-146823b16147"
+      }
+    ]
+  },
+  "installed_integrations": [
+    "3776b8da1238dc5",
+    "9f1134cfb89202f3",
+    "ae67192054b1d99f"
+  ],
+  "integration_manager_settings": {
+    "allowLedSdk": true
+  },
+  "language": "pt-BR",
+  "lighting_sleep": true,
+  "migration_shown": false,
+  "notifications_enabled": true,
+  "onboarding_shown": true,
+  "persistent": {
+    "id": "420fd454-0c36-499d-bde4-146823b16147"
+  },
+  "profiles": {
+    "profiles": [
+      {
+        "activeForApplication": true,
+        "applicationId": "420fd454-0c36-499d-bde4-146823b16147",
+        "assignments": [
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-020100000000",
+            "slotId": "g403hero_g1_m1"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-090700000000",
+            "slotId": "g403hero_g1_m1_shifted"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-020200000000",
+            "slotId": "g403hero_g2_m1"
+          },
+          {
+            "cardId": "58af7990-df5c-4452-8f55-6aeaa8524d8e",
+            "slotId": "g403hero_g2_m1_shifted"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-020300000000",
+            "slotId": "g403hero_g3_m1"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-090700000000",
+            "slotId": "g403hero_g3_m1_shifted"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-020400000000",
+            "slotId": "g403hero_g4_m1"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-020200000000",
+            "slotId": "g403hero_g4_m1_shifted"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-020500000000",
+            "slotId": "g403hero_g5_m1"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-090700000000",
+            "slotId": "g403hero_g5_m1_shifted"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-040400000000",
+            "slotId": "g403hero_g6_m1"
+          },
+          {
+            "cardId": "0f82f693-5b78-4cf5-867e-090700000000",
+            "slotId": "g403hero_g6_m1_shifted"
+          },
+          {
+            "cardId": "9b85425b-8c71-4b15-808c-1206c08f0000",
+            "slotId": "g403hero_lighting_setting_firmware"
+          },
+          {
+            "cardId": "fe4f8a51-7eb0-4f4c-b6e5-74c28c5d6f6e",
+            "slotId": "g403hero_mouse_settings"
+          }
+        ],
+        "id": "420fd454-0c36-499d-bde4-146823b16147",
+        "name": "PROFILE_NAME_DEFAULT"
+      }
+    ]
+  },
+  "release_notes_build_id": "35818",
+  "seen_coach_marks": []
+}
